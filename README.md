@@ -25,9 +25,9 @@ There is no configuration (yet) for this boilerplate. The defaults from included
 
 ## Installation
 
-The only supported way of installing this recipe is via [composer](https://getcomposer.org)
+The only supported way of installing this module is via [composer](https://getcomposer.org)
 
-`composer require nswdpc/silverstripe-cloudflare-recipe`
+`composer require nswdpc/silverstripe-cloudflare-boilerplate`
 
 ## LICENSE
 
