@@ -24,8 +24,8 @@
       "purge"
     ],
     "require": {
-        "nswdpc/silverstripe-oldmantium": "<1",
-        "nswdpc/silverstripe-cache-headers": "<1"
+        "nswdpc/silverstripe-oldmantium": "^1",
+        "nswdpc/silverstripe-cache-headers": "^1"
     },
     "config": {
         "process-timeout": 600
