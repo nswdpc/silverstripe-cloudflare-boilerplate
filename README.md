@@ -4,7 +4,7 @@ Default modules for Silverstripe websites acting as an origin to a Cloudflare ca
 
 <blockquote>
 <p>By default, SilverStripe sends headers which signal to HTTP caches that the response should be not considered cacheable</p>
-<cite><a href="https://docs.silverstripe.org/en/4/developer_guides/performance/http_cache_headers/">HTTP Cache Headers</a></cite>
+<cite><a href="https://docs.silverstripe.org/en/6/developer_guides/performance/http_cache_headers/">HTTP Cache Headers</a></cite>
 </blockquote>
 
 This boilerplate enables:
@@ -15,8 +15,6 @@ This boilerplate enables:
 ## Modules
 
 + [nswdpc/silverstripe-oldmantium](https://github.com/nswdpc/silverstripe-oldmantium) - reinforced Cloudflare support for versioned dataobjects
- + [cloudflare/sdk](https://github.com/cloudflare/cloudflare-php) - PHP SDK for Cloudflare
- + [symbiote/silverstripe-oldman](https://github.com/symbiote/silverstripe-oldman) - Simple cache purging for page records
 + [nswdpc/silverstripe-cache-headers](https://github.com/nswdpc/silverstripe-cache-headers) - modify HTTP cache headers sent by a Silverstripe website [more](https://github.com/nswdpc/silverstripe-cache-headers/blob/master/docs/en/001_index.md)
 
 ## Configuration
@@ -27,7 +25,9 @@ There is no configuration (yet) for this boilerplate. The defaults from included
 
 The only supported way of installing this module is via [composer](https://getcomposer.org)
 
-`composer require nswdpc/silverstripe-cloudflare-boilerplate`
+```sh
+composer require nswdpc/silverstripe-cloudflare-boilerplate
+```
 
 ## LICENSE
 
@@ -35,7 +35,7 @@ The only supported way of installing this module is via [composer](https://getco
 
 ## Maintainers
 
-+ [dpcdigital@NSWDPC:~$](https://dpc.nsw.gov.au)
++ PD Web Team
 
 ## Bugtracker
 
