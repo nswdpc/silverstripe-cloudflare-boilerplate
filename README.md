@@ -4,7 +4,7 @@ Default modules for Silverstripe websites acting as an origin to a Cloudflare ca
 
 <blockquote>
 <p>By default, SilverStripe sends headers which signal to HTTP caches that the response should be not considered cacheable</p>
-<cite><a href="https://docs.silverstripe.org/en/4/developer_guides/performance/http_cache_headers/">HTTP Cache Headers</a></cite>
+<cite><a href="https://docs.silverstripe.org/en/6/developer_guides/performance/http_cache_headers/">HTTP Cache Headers</a></cite>
 </blockquote>
 
 This boilerplate enables:
