@@ -15,8 +15,6 @@ This boilerplate enables:
 ## Modules
 
 + [nswdpc/silverstripe-oldmantium](https://github.com/nswdpc/silverstripe-oldmantium) - reinforced Cloudflare support for versioned dataobjects
- + [cloudflare/sdk](https://github.com/cloudflare/cloudflare-php) - PHP SDK for Cloudflare
- + [symbiote/silverstripe-oldman](https://github.com/symbiote/silverstripe-oldman) - Simple cache purging for page records
 + [nswdpc/silverstripe-cache-headers](https://github.com/nswdpc/silverstripe-cache-headers) - modify HTTP cache headers sent by a Silverstripe website [more](https://github.com/nswdpc/silverstripe-cache-headers/blob/master/docs/en/001_index.md)
 
 ## Configuration
@@ -35,7 +33,7 @@ The only supported way of installing this module is via [composer](https://getco
 
 ## Maintainers
 
-+ [dpcdigital@NSWDPC:~$](https://dpc.nsw.gov.au)
++ PD Web Team
 
 ## Bugtracker
 
